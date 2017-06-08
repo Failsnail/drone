@@ -1,0 +1,9 @@
+[package]
+name = "glium_tutorial_1"
+version = "0.1.0"
+authors = ["koen"]
+
+[dependencies]
+glium = "*"
+image = "*"
+rand = "*"
